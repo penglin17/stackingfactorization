@@ -3,5 +3,5 @@ Hello, thank you for your interests for our paper "Stacking Factorizing Partitio
 Hybrid Bayesian Network Models". 
 This is the repository for the model and data associated with the paper. Let me know if you have any questions.
 
-contact: linpeng.cs@gmail.com
+contact: linpeng.cs[at]gmail.com
 
